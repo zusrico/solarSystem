@@ -1,2 +1,0 @@
-# solarSystem
-educative website 
